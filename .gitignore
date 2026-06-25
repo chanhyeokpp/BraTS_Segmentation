@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# BraTS data and generated outputs
+data/
+BraTS2021_Training_Data/
+outputs/
+
+# Checkpoints
+*.pth
+*.pt
+
+# Python/cache/system files
+__pycache__/
+*.pyc
+.DS_Store
